@@ -44,6 +44,8 @@ function scrollActive(){
     })
 }
 
+window.addEventListener('scroll', scrollActive)
+
 /*==================== SHOW SCROLL TOP ====================*/ 
 
 
